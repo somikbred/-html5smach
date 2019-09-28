@@ -1,10 +1,10 @@
-{
+* {
     box-sizing: border-box
 }
 body {
-    background: #F5F4EF;
+    background: #000305;
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #000305;
+    color: #F5F4EF;
     font-size: 14px;
     line-height: 1.4;
 }
@@ -162,4 +162,5 @@ aside {
     flex: 1 0 auto;
     padding-right: 30px
 }
+
 
